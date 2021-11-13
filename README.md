@@ -6,12 +6,11 @@
  In this project commit to git, the go file is created in the local computer and pushed to the remote server.
  
  ### Requirements
- 
- Linux centos Operating system 
-Linux Centos Operating system is used as the local computer with the working directory.
- Github.com
+ * Linux centos Operating system 
+ Linux Centos Operating system is used as the local computer with the working directory.
+ * Github.com
 Created a remote repository in the github account(ND0709/Network-Interfaces)
- Go language Programming
+* Go language Programming
 Go file are created in the local repository to list the information about network interfaces.
  
  ### Working process
