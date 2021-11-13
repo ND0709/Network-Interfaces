@@ -1,19 +1,30 @@
-###Commit a Project to Git
+### Commit a Project to Git ###
  
  Git is a distributed version control system.Git is used from the configuration management.
- In this project commit to git, the go file is created in the local repository and commit to the remote repository.  
+ Git Commit is used to save the snapshots of the working program into the version control database within the continuous interval. This committed snapshots the safe version of a project, it can not be changed unless you ask for it.
  
- ##Requirements
+ In this project commit to git, the go file is created in the local computer and pushed to the remote server.
+ 
+ ### Requirements
  
  Linux centos Operating system 
- Linux Centos Operating system is used as the local computer with the working directory.
+Linux Centos Operating system is used as the local computer with the working directory.
  Github.com
- Created a remote repository in the github account(ND0709/Network-Interfaces)
+Created a remote repository in the github account(ND0709/Network-Interfaces)
  Go language Programming
- Go file are created in the local repository to list the information about network interfaces.
+Go file are created in the local repository to list the information about network interfaces.
  
- ##Initial configurations
- How to setup
+ ### Working process
+ In the local computer, 
+ The working copy of the code file is created 
+ This working copy is sent to the staging area using "git add"
+ Then the staged copy is committed to the version control database using "git commit"
+ When the code is ready, it can be pushed to the remote server using "git push".
+ Now the code is accessible globally from the remote server
+ 
+ 
+ ### Initial configurations
+ 
  Linux sytem
  
  * Check whether we have the updated versions of the following softwares using the terminal
