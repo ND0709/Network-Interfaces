@@ -41,8 +41,8 @@ Go file are created in the local repository to list the information about networ
  * A new repository for this project with the public privacy settings and README file is created.
  * This repository is a remote repository for this project.
  * clone to the local directory with
+### configuations in the local computer (terminal)
 
-back to terminal
 * cloning the repository in the local repository
 $ git clone https://github.com/ND0709/Network-Interfaces.git
 enter login id and password to get the accessibility into remote respository
@@ -59,5 +59,5 @@ $git commit -m IP.go
  to commit changes to the remote repository, push command is used.
  $git push
  
-##Conculsion
-The go file is create and committed into the github.
+### Conculsion
+The code file Ip.go is now available globally from the remote github browser.
